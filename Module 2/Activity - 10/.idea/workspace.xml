@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/../../Module 1/Activity - 27/T02.02-Exercise-AddMenu/app/src/main/res/menu/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 1/Activity - 27/T02.02-Exercise-AddMenu/app/src/main/res/menu/main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Module 1/Activity - 27/T02.02-Exercise-AddMenu/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 1/Activity - 27/T02.02-Exercise-AddMenu/app/src/main/res/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Module 1/Activity - 41/S02.02-Exercise-Menus/app/src/main/java/com/example/android/sunshine/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 1/Activity - 41/S02.02-Exercise-Menus/app/src/main/java/com/example/android/sunshine/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Activity - 11/T03.03-Exercise-RecyclerViewAdapter/app/src/main/java/com/example/android/recyclerview/GreenAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Activity - 11/T03.03-Exercise-RecyclerViewAdapter/app/src/main/java/com/example/android/recyclerview/GreenAdapter.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +18,28 @@
     <session id="2023622093">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
     </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -38,7 +56,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -47,15 +64,121 @@
               <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
               <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
+              <item name="T03.02-Exercise-ViewHolder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
+              <item name="T03.02-Exercise-ViewHolder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
+              <item name="T03.02-Exercise-ViewHolder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
+              <item name="T03.02-Exercise-ViewHolder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
+              <item name="T03.02-Exercise-ViewHolder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
+              <item name="T03.02-Exercise-ViewHolder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
+              <item name="T03.02-Exercise-ViewHolder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
+              <item name="T03.02-Exercise-ViewHolder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
+              <item name="T03.02-Exercise-ViewHolder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="recyclerview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
+              <item name="T03.02-Exercise-ViewHolder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Activity - 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity - 10" type="462c0819:PsiDirectoryNode" />
+              <item name="T03.02-Exercise-ViewHolder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/T03.02-Exercise-ViewHolder" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Activity - 11/T03.03-Exercise-RecyclerViewAdapter" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -94,24 +217,35 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" visible="true" weight="0.3298887" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="TODO" visible="true" weight="0.3291815" />
-      <window_info anchor="bottom" id="Find" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.32034975" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="TODO" order="1" visible="true" weight="0.2846975" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Preview" order="3" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/T03.02-Exercise-ViewHolder/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/T03.02-Exercise-ViewHolder/app/src/main/java/com/example/android/recyclerview/ColorUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>

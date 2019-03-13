@@ -77,6 +77,7 @@ public class GreenAdapter extends RecyclerView.Adapter<GreenAdapter.NumberViewHo
     // TODO (9) Override getItemCount and return the number of items to display
     @Override
     public int getItemCount() {
+
         return mNumberItems;
     }
 
@@ -99,6 +100,7 @@ public class GreenAdapter extends RecyclerView.Adapter<GreenAdapter.NumberViewHo
             super(itemView);
 
             listItemNumberView = (TextView) itemView.findViewById(R.id.tv_item_number);
+
         }
 
         /**
@@ -107,6 +109,7 @@ public class GreenAdapter extends RecyclerView.Adapter<GreenAdapter.NumberViewHo
          * @param listIndex Position of the item in the list
          */
         void bind(int listIndex) {
+
             listItemNumberView.setText(String.valueOf(listIndex));
         }
     }
