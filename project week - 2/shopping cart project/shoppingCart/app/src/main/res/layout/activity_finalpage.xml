@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".finalpage">
+
+    <TextView
+        android:id="@+id/oredr"
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your order has been placed sucessfully!!!!"
+        android:textStyle="bold|italic"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="22dp"
+        android:gravity="center"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:layout_marginLeft="120dp"
+        android:id="@+id/continue_shopping"
+        android:text="    Continue Shopping    "
+        android:background="@drawable/input_design"
+        android:layout_below="@+id/oredr"
+        android:textColor="@color/colorPrimaryDark"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/continue_shopping"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="50dp"
+        android:id="@+id/logout"
+        android:background="@drawable/buttons"
+        android:text="Logout"
+        android:textSize="22dp"
+        android:textColor="@color/colorText"/>
+
+
+</RelativeLayout>

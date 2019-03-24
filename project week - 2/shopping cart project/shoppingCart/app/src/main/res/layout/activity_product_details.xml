@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/relativeLayout"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".productDetails">
+
+
+
+
+
+    <TextView
+        android:id="@+id/productDetails_name"
+        android:layout_width="351dp"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:textAlignment="inherit"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:textSize="25dp"
+        android:textStyle="bold"
+         />
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/productDetails_name">
+
+    <TextView
+        android:id="@+id/productDetails_price"
+        android:layout_width="349dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="230dp"
+
+        android:layout_marginTop="120dp"
+        android:text="Price"
+        android:textAlignment="inherit"
+        android:textColor="@android:color/black"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/productDetails_addToCart"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="220dp"
+        android:gravity="right"
+
+        android:background="@color/colorPrimaryDark"
+        android:padding="20dp"
+        android:text="AddtoCart"
+        android:textColor="@android:color/white"
+        android:textSize="10dp"
+        android:layout_below="@+id/productDetails_price" />
+
+
+
+    <ImageView
+        android:id="@+id/productDetails_image"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@+id/productDetails_name"
+        android:layout_gravity="left"
+        android:layout_marginTop="63dp"
+        android:scaleType="centerCrop" />
+
+    </android.support.v7.widget.CardView>
+
+
+    <TextView
+        android:id="@+id/productDetails_description"
+        android:layout_width="348dp"
+        android:layout_height="68dp"
+        android:layout_below="@+id/card_1"
+        android:layout_margin="15dp"
+        android:text="Description"
+        android:gravity="center"
+
+        android:textAlignment="inherit"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="15dp" />
+
+        <com.cepheuen.elegantnumberbutton.view.ElegantNumberButton
+            android:id="@+id/productDetails_number_btn"
+            android:layout_width="100dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="200dp"
+
+            android:gravity="center"
+
+            android:elevation="8dp"
+            app:finalNumber="10"
+            app:initialNumber="1"
+            android:layout_below="@+id/productDetails_description" />
+
+    <!--<Button-->
+        <!--android:id="@+id/productDetails_viewCart"-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_height="60dp"-->
+        <!--android:layout_marginTop="25dp"-->
+        <!--android:layout_marginLeft="220dp"-->
+        <!--android:gravity="right"-->
+
+        <!--android:background="@color/colorPrimaryDark"-->
+        <!--android:padding="20dp"-->
+        <!--android:text="AddtoCart"-->
+        <!--android:textColor="@android:color/white"-->
+        <!--android:textSize="10dp"-->
+        <!--android:layout_below ="@+id/productDetails_description"/>productDetails_description-->
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="200dp"
+        android:layout_margin="16dp"
+        app:fab_backgroundColor="@color/colorPrimary"
+        app:rippleColor="@color/colorPrimaryDark"
+        android:layout_below ="@+id/productDetails_description"
+        app:srcCompat="@drawable/nav_cart" />
+
+
+
+</RelativeLayout>

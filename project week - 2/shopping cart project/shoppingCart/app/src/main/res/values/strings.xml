@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">shoppingCart</string>
+    <string name="title_activity_bottom">Products</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+
+</resources>
